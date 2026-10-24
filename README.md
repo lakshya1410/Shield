@@ -1,6 +1,6 @@
-# FALCON 🦅
+# Shield 🦅
 
-**F**all **A**lert **L**andslide  **C**ondition  **O**bservation **N**etwork
+
 
 A full-stack application for rockfall prediction, risk analysis, and route optimization using drone imagery and machine learning.
 
@@ -23,7 +23,7 @@ npm run dev
 ### Project Structure
 
 ```
-FALCON/
+Shield/
 ├── frontend/                           # React + TypeScript Frontend
 │   ├── src/
 │   │   ├── components/
